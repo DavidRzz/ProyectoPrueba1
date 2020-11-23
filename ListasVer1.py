@@ -1,7 +1,7 @@
 #Lista: Colección de elementos que se guardan en una sola variable, la lista se define en corchetes
 #Se puede usar comilla simple o comilla doble
 #Cada elemento de la lista tiene un indice, los indices empiezan desde el número 0
-nombres = ["Nepe", "Pedro", "CTM", "Bob"]
+nombres = ["Maria", "Pedro", "Aldo", "Bob"]
 print(nombres)
 #conocer el largo de la lista (conocer el total de los elementos)
 print(len(nombres))
